@@ -5,7 +5,7 @@
 }
 :root {
     
-    background: url(https://images7.alphacoders.com/117/thumb-1920-1172755.jpg);
+    background: url(https://mcdn.wallpapersafari.com/medium/58/7/Z7x5uO.jpg);
     background-size:100%;
     /*-- seguido do mnome escolhido*/
     --ff-heading:'Epilogue', sans-serif;
@@ -70,7 +70,7 @@ header p {
     line-height: 3.2rem;
     letter-spacing: 3px;
     
-    font-weight: 400;
+    font-weight: 800;
     
     margin-bottom: 1.7rem;
     
@@ -101,7 +101,7 @@ header p {
     font-family: var(--ff-heading);
 }
 .card img {
-    height: 41.6rem;
+    height: 31.6rem;
     /*ajusta o tamanho da imagem dentro da caixa*/
     object-fit: cover;
     filter: brightness(0.6) saturate(1.5);
